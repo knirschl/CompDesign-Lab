@@ -1,4 +1,4 @@
 [submodule "libs/Compilers-course-code-template"]
 	path = libs/Compilers-course-code-template
-	url = git@github.com:LS-Lab/Compilers-course-code-template.git
+	url = https://github.com/LS-Lab/Compilers-course-code-template.git
 	branch = java
